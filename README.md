@@ -1,16 +1,28 @@
-# lista_tarefas_app
+# Todo App
+![App_image](/assets/image.png)
 
-A new Flutter project.
+Aplicativo simples de lista de tarefas com persistência local (SQLite).
 
-## Getting Started
+## Pré-requisitos
 
-This project is a starting point for a Flutter application.
+- Flutter SDK instalado
+- Android Studio/VSCode (opcional)
 
-A few resources to get you started if this is your first Flutter project:
+## Como executar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Clone o repositório
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+
+git clone https://github.com/victorreiscarlota/Lista-de-compras-LAB.git
+cd Lista-de-compras-LAB
+
+```
+
+### Instale as dependências
+
+```bash
+
+flutter pub get && flutter run
+
+```
