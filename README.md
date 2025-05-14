@@ -1,7 +1,7 @@
-# Todo App
+# Lista de compras
 ![App_image](/assets/image.png)
 
-Aplicativo simples de lista de tarefas com persistência local (SQLite).
+Aplicativo simples de lista de tarefas com persistência local (SQLite) para a disciplina de Laboratório de Desenvolvimento de Aplicações Móveis e Distribuídas.
 
 ## Pré-requisitos
 
